@@ -17,8 +17,7 @@ Use the Wine Quality dataset to study dimensionality reduction with Principal Co
 **Evaluation:** Accuracy, precision, recall, F1-score, and confusion matrix.
 """
 
-# Commented out IPython magic to ensure Python compatibility.
-# %pip install -q ucimlrepo pandas numpy scikit-learn matplotlib seaborn
+ %pip install -q ucimlrepo pandas numpy scikit-learn matplotlib seaborn
 
 import warnings
 warnings.filterwarnings("ignore")
