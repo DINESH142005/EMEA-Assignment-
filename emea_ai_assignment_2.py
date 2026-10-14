@@ -20,8 +20,7 @@ Use a non-linear dataset from the UCI Machine Learning Repository to study how p
 """
 
 # Commented out IPython magic to ensure Python compatibility.
-# %pip install -q ucimlrepo pandas numpy scikit-learn matplotlib seaborn
-
+%pip install -q ucimlrepo pandas numpy scikit-learn matplotlib seaborn
 import warnings
 warnings.filterwarnings("ignore")
 
